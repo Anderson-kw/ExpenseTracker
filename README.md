@@ -1,16 +1,21 @@
-# ExpenseTracker
-Criação de um simples acompanhamento de gastos com Java baseado nos requerimentos dadas em https://roadmap.sh/projects/expense-tracker
+# Expense Tracker
 
-# Requerimentos
-A aplicação deve funcionar com comando de linha e deve possuir as seguintes características:
-  * Usuários podem adicionar uma despesa com a descrição e a quantidade;
-    
-  * Usuários podem editar uma despesa;
-    
-  * Usuários podem deletar uma despesa;
-    
-  * Usuários podem ver todas despesas;
-    
-  * Usuários podem ver um resumo de todas despesas;
-    
-  * Usuários podem ver um resumo das despesas de um mês espefíco (do ano atual);
+Projeto desenvolvido seguindo o desafio do **[roadmap.sh](https://roadmap.sh/projects/expense-tracker)**.
+
+O objetivo é criar uma aplicação de linha de comando (CLI) para gerenciamento de finanças pessoais, permitindo o registro, edição e análise de despesas de forma prática.
+
+## Tecnologias
+* **Java** (Core)
+* **CLI** (Interface de Linha de Comando)
+
+## Funcionalidades
+
+- Interface via linha de comando.
+- Adicionar despesas (com descrição e valor).
+- Atualizar ou deletar despesas existentes.
+- Listar todas as despesas registradas.
+- Visualizar resumo total de todos os gastos.
+- Visualizar resumo de gastos de um mês específico.
+
+## Referência
+* Desafio original: [Expense Tracker](https://roadmap.sh/projects/expense-tracker)
